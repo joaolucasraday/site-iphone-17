@@ -7,7 +7,7 @@ function NavBar() {
                 <a href="#camera" className="hover:text-gray-300">Câmera</a>
                 <a href="#performace" className="hover:text-gray-300">Performace</a>
                 <a href="#cores" className="hover:text-gray-300">Cores</a>
-                <button className="bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-full">Comprar</button>
+                <button className="bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-full cursor-pointer hover:scale-105 transition-all duration-300">Comprar</button>
             </div>
         </nav>
     )
