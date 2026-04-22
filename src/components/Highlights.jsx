@@ -14,13 +14,13 @@ function Highlights() {
                 </div>
                 <div className="grid grid-cols-2 gap-8 mb-16">
                     <div className="bg-gray-900 rounded-3xl p-8">
-                        <img className="w-full rounded-2xl mb-4" src="../../public/imgs/highlists.jpg" alt="iphone titanium" />
+                        <img className="w-full rounded-2xl mb-4" src="/imgs/highlists.jpg" alt="iphone titanium" />
                         <h3 className="font-bold mb-2 text-3xl">Titânio Premium</h3>
                         <p className="text-gray-300">Estrutura em titânio de grau aeroespacial. O smartphone mais forte e leve.</p>
                     </div>
 
                     <div className="bg-gray-900 rounded-3xl p-8">
-                        <img className="w-full rounded-2xl mb-4" src="../../public/imgs/hero-features.jpg" alt="ios 2025" />
+                        <img className="w-full rounded-2xl mb-4" src="/imgs/hero-features.jpg" alt="ios 2025" />
                         <h3 className="font-bold mb-2 text-3xl">iOS 26</h3>
                         <p className="text-gray-300">O sistema operacional mais avançado do mundo com IA integrada</p>
                     </div>
